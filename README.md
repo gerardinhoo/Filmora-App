@@ -83,5 +83,3 @@ npm run dev
 ```
 
 Open the App locally [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-Open The Filmora App Live [Filmora](https://filmora.eklugerard.com/)
