@@ -83,3 +83,6 @@ npm run dev
 ```
 
 Open the App locally [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+Open the App Live [https://fimora.gerardeklu.com/](https://fimora.gerardeklu.com/).
+
